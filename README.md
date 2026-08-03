@@ -1,4 +1,6 @@
-## 👋
+# 👋
+
+## Proejct UOU 진행 중 (2026.4.30 ~ )
 
 <!--
 **fut71/fut71** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
