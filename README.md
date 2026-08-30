@@ -16,4 +16,6 @@ C++과 Unreal Engine을 중심으로 게임플레이 시스템을 개발하고 �
 > Unreal Engine 5 기반 팀 게임 프로젝트  
 > 2026.04.30 ~ 진행 중
 
-### [DMS Merc]
+### [DMS_Merc (돈미세 용병단)](https://github.com/fut71/DMS_Merc)
+
+> C++과 Direct3D 11 기반 커스텀 엔진으로 개발한 게임 프로젝트
