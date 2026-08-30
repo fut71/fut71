@@ -18,5 +18,7 @@ C++과 Unreal Engine을 중심으로 게임플레이 시스템을 개발하고 �
 
 ### [DMS_Merc (돈미세 용병단)](https://github.com/fut71/DMS_Merc)
 
-> C++과 Direct3D 11 기반 자체 엔진으로 개발한 게임 프로젝트  
-> G-STAR 2024 출품 및 전시
+- C++과 DirectX11 기반 자체 엔진으로 개발한 게임 프로젝트  
+- **Tech:** C++, Direct3D 11
+- 자체 게임 엔진 개발 및 게임플레이 기능 구현
+- G-STAR 2024 출품 및 전시
