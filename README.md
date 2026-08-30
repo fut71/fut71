@@ -1,6 +1,15 @@
 # 👋
+C++과 Unreal Engine을 중심으로 게임 개발합니다.
 
-## Proejct UOU 진행 중 (2026.4.30 ~ )
+## Tech Stack
+- C++
+- Unreal Engine 5
+
+## Proejcts
+
+### Proejct UOU 진행 중 (2026.4.30 ~ )
+
+### 
 
 <!--
 **fut71/fut71** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
